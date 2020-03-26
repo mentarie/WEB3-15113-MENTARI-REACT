@@ -2,7 +2,7 @@
   "name": "pweb3-reactstrap",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://mentarie.github.io/WEB3-15113-MENTARI-REACT/",
+  "homepage": "https://mentarie.github.io/WEB3-15113-MENTARI-REACT/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
